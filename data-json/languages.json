@@ -1,0 +1,45 @@
+{
+  "languages" : [
+    {
+      "id": "lang-001",
+      "localizedKey": "language-common",
+      "defaultName": "Commun"
+    },{
+      "id": "lang-002",
+      "localizedKey": "language-tevintide",
+      "defaultName": "Tévintide"
+    },{
+      "id": "lang-003",
+      "localizedKey": "language-orlesien",
+      "defaultName": "Orlésien"
+    },{
+      "id": "lang-004",
+      "localizedKey": "language-qunlat",
+      "defaultName": "Qunlat"
+    },{
+      "id": "lang-005",
+      "localizedKey": "language-rivaini",
+      "defaultName": "Rivaini"
+    },{
+      "id": "lang-006",
+      "localizedKey": "language-antivan",
+      "defaultName": "Antivan"
+    },{
+      "id": "lang-007",
+      "localizedKey": "language-elfique",
+      "defaultName": "Elfique"
+    },{
+      "id": "lang-008",
+      "localizedKey": "language-tevintide-antique",
+      "defaultName": "Tévintide antique"
+    },{
+      "id": "lang-009",
+      "localizedKey": "language-nain",
+      "defaultName": "Nain"
+    },{
+      "id": "lang-010",
+      "localizedKey": "language-andresien",
+      "defaultName": "Andrésien"
+    }
+  ]
+}

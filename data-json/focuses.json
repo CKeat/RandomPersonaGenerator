@@ -1,0 +1,405 @@
+{
+  "focuses": [
+    {
+      "id": "focu-001",
+      "localizedKey": "focus-deguisement",
+      "defaultName": "Déguisement",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-002",
+      "localizedKey": "focus-etiquette",
+      "defaultName": "Etiquette",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-003",
+      "localizedKey": "focus-investigation",
+      "defaultName": "Investigation",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-004",
+      "localizedKey": "focus-jeu",
+      "defaultName": "Jeu",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-005",
+      "localizedKey": "focus-marchandage",
+      "defaultName": "Marchandage",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-006",
+      "localizedKey": "focus-meneur-homme",
+      "defaultName": "Meneur d'homme",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-007",
+      "localizedKey": "focus-spectacle",
+      "defaultName": "Spectacle",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-008",
+      "localizedKey": "focus-persuasion",
+      "defaultName": "Persuasion",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-009",
+      "localizedKey": "focus-seduction",
+      "defaultName": "Séduction",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-010",
+      "localizedKey": "focus-soin-animaux",
+      "defaultName": "Soin des animaux",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-011",
+      "localizedKey": "focus-tromperie",
+      "defaultName": "Tromperie",
+      "attributeId": "attr-01"
+    },{
+      "id": "focu-012",
+      "localizedKey": "focus-canotage",
+      "defaultName": "Canotage",
+      "attributeId": "attr-02"
+    },{
+      "id": "focu-013",
+      "localizedKey": "focus-course",
+      "defaultName": "Course",
+      "attributeId": "attr-02"
+    },{
+      "id": "focu-014",
+      "localizedKey": "focus-endurance",
+      "defaultName": "Endurance",
+      "attributeId": "attr-02"
+    },{
+      "id": "focu-015",
+      "localizedKey": "focus-grand-buveur",
+      "defaultName": "Grand buveur",
+      "attributeId": "attr-02"
+    },{
+      "id": "focu-016",
+      "localizedKey": "focus-natation",
+      "defaultName": "Natation",
+      "attributeId": "attr-02"
+    },{
+      "id": "focu-017",
+      "localizedKey": "focus-acrobatie",
+      "defaultName": "Acrobatie",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-018",
+      "localizedKey": "focus-arcs",
+      "defaultName": "Arcs",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-019",
+      "localizedKey": "focus-artisanat",
+      "defaultName": "Artisanat",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-020",
+      "localizedKey": "focus-bagarre",
+      "defaultName": "Bagarre",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-021",
+      "localizedKey": "focus-batons",
+      "defaultName": "Bâtons",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-022",
+      "localizedKey": "focus-calligraphie",
+      "defaultName": "Calligraphie",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-023",
+      "localizedKey": "focus-crochetage",
+      "defaultName": "Crochetage",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-024",
+      "localizedKey": "focus-discretion",
+      "defaultName": "Discrétion",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-025",
+      "localizedKey": "focus-duel",
+      "defaultName": "Duel",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-026",
+      "localizedKey": "focus-equitation",
+      "defaultName": "Equitation",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-027",
+      "localizedKey": "focus-escamotage",
+      "defaultName": "Escamotage",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-028",
+      "localizedKey": "focus-grenades",
+      "defaultName": "Grenades",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-029",
+      "localizedKey": "focus-initiative",
+      "defaultName": "Initiative",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-030",
+      "localizedKey": "focus-lames-legeres",
+      "defaultName": "Lames légères",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-031",
+      "localizedKey": "focus-pieges",
+      "defaultName": "Pièges",
+      "attributeId": "attr-03"
+    },{
+      "id": "focu-032",
+      "localizedKey": "focus-armes-contondantes",
+      "defaultName": "Armes contondantes",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-033",
+      "localizedKey": "focus-armes-hast",
+      "defaultName": "Armes d'hast",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-034",
+      "localizedKey": "focus-conduite-attelage",
+      "defaultName": "Conduite d'attelage",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-035",
+      "localizedKey": "focus-escalade",
+      "defaultName": "Escalade",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-036",
+      "localizedKey": "focus-force",
+      "defaultName": "Force",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-037",
+      "localizedKey": "focus-haches",
+      "defaultName": "Haches",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-038",
+      "localizedKey": "focus-intimidation",
+      "defaultName": "Intimidation",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-039",
+      "localizedKey": "focus-lames-lourdes",
+      "defaultName": "Lames lourdes",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-040",
+      "localizedKey": "focus-lances",
+      "defaultName": "Lances",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-041",
+      "localizedKey": "focus-lances-arcon",
+      "defaultName": "Lances d'arçon",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-042",
+      "localizedKey": "focus-saut",
+      "defaultName": "Saut",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-043",
+      "localizedKey": "focus-vigeur",
+      "defaultName": "Vigeur",
+      "attributeId": "attr-04"
+    },{
+      "id": "focu-044",
+      "localizedKey": "focus-creation",
+      "defaultName": "Création",
+      "attributeId": "attr-05"
+    },{
+      "id": "focu-045",
+      "localizedKey": "focus-entropie",
+      "defaultName": "Entropie",
+      "attributeId": "attr-05"
+    },{
+      "id": "focu-046",
+      "localizedKey": "focus-elements",
+      "defaultName": "Eléments",
+      "attributeId": "attr-05"
+    },{
+      "id": "focu-047",
+      "localizedKey": "focus-esprit",
+      "defaultName": "Esprit",
+      "attributeId": "attr-05"
+    },{
+      "id": "focu-048",
+      "localizedKey": "focus-sang",
+      "defaultName": "Sang",
+      "attributeId": "attr-05"
+    },{
+      "id": "focu-049",
+      "localizedKey": "focus-trait-mystique",
+      "defaultName": "Trat mystique",
+      "attributeId": "attr-05"
+    },{
+      "id": "focu-050",
+      "localizedKey": "focus-detection-engeances",
+      "defaultName": "Détection des engeances",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-051",
+      "localizedKey": "focus-empathie",
+      "defaultName": "Empathie",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-052",
+      "localizedKey": "focus-fouille",
+      "defaultName": "Fouille",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-053",
+      "localizedKey": "focus-odorat",
+      "defaultName": "Odorat",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-054",
+      "localizedKey": "focus-ouie",
+      "defaultName": "Ouïe",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-055",
+      "localizedKey": "focus-pistage",
+      "defaultName": "Pistage",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-056",
+      "localizedKey": "focus-vue",
+      "defaultName": "Vue",
+      "attributeId": "attr-06"
+    },{
+      "id": "focu-057",
+      "localizedKey": "focus-brasserie",
+      "defaultName": "Brasserie",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-058",
+      "localizedKey": "focus-cartographie",
+      "defaultName": "Cartographie",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-057",
+      "localizedKey": "focus-connaissance-nature",
+      "defaultName": "Connaissance de la nature",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-058",
+      "localizedKey": "focus-connaissance-cultures",
+      "defaultName": "Connaissance des cultures",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-059",
+      "localizedKey": "focus-connaissance-poisons",
+      "defaultName": "Connaissance des poisons",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-060",
+      "localizedKey": "focus-connaissances-historique",
+      "defaultName": "Connaissances historique",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-061",
+      "localizedKey": "focus-connaissances-militaires",
+      "defaultName": "Connaissances militaires",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-062",
+      "localizedKey": "focus-connaissances-musicales",
+      "defaultName": "Connaissances musicales",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-063",
+      "localizedKey": "focus-connaissances-mystiques",
+      "defaultName": "Connaissances mystiques",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-064",
+      "localizedKey": "focus-connaissances-religieuses",
+      "defaultName": "Connaissances religieuses",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-065",
+      "localizedKey": "focus-cryptographie",
+      "defaultName": "Cryptographie",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-066",
+      "localizedKey": "focus-ecriture",
+      "defaultName": "Ecriture",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-067",
+      "localizedKey": "focus-enchantement",
+      "defaultName": "Enchantement",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-068",
+      "localizedKey": "focus-evaluation",
+      "defaultName": "Evaluation",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-069",
+      "localizedKey": "focus-heraldique",
+      "defaultName": "Héraldique",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-070",
+      "localizedKey": "focus-Ingénierie",
+      "defaultName": "Ingénierie",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-071",
+      "localizedKey": "focus-orientation",
+      "defaultName": "Orientation",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-072",
+      "localizedKey": "focus-qun",
+      "defaultName": "Qun",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-073",
+      "localizedKey": "focus-recherches",
+      "defaultName": "Recherches",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-074",
+      "localizedKey": "focus-soins",
+      "defaultName": "Soins",
+      "attributeId": "attr-07"
+    },{
+      "id": "focu-075",
+      "localizedKey": "focus-courage",
+      "defaultName": "Courage",
+      "attributeId": "attr-08"
+    },{
+      "id": "focu-076",
+      "localizedKey": "focus-foi",
+      "defaultName": "Foi",
+      "attributeId": "attr-08"
+    },{
+      "id": "focu-077",
+      "localizedKey": "focus-matrise-soi",
+      "defaultName": "Maîtrise de soi",
+      "attributeId": "attr-08"
+    },{
+      "id": "focu-078",
+      "localizedKey": "focus-moral",
+      "defaultName": "Moral",
+      "attributeId": "attr-08"
+    }
+  ]
+}

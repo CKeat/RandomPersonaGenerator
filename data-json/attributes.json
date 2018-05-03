@@ -1,0 +1,37 @@
+{
+  "attributs" : [
+    {
+      "id": "attr-001",
+      "localizedKey": "attribut-communication",
+      "defaultName": "Communication"
+    },{
+      "id": "attr-002",
+      "localizedKey": "attribut-constitution",
+      "defaultName": "Constitution"
+    },{
+      "id": "attr-003",
+      "localizedKey": "attribut-dexterity",
+      "defaultName": "Dextérité"
+    },{
+      "id": "attr-004",
+      "localizedKey": "attribut-strengh",
+      "defaultName": "Force"
+    },{
+      "id": "attr-005",
+      "localizedKey": "attribut-magic",
+      "defaultName": "Magie"
+    },{
+      "id": "attr-006",
+      "localizedKey": "attribut-perception",
+      "defaultName": "Perception"
+    },{
+      "id": "attr-007",
+      "localizedKey": "attribut-cunning",
+      "defaultName": "Ruse"
+    },{
+      "id": "attr-008",
+      "localizedKey": "attribut-will",
+      "defaultName": "Volonté"
+    }
+  ]
+}
