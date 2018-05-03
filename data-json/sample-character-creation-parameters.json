@@ -59,21 +59,46 @@
       "localizedKey": "focu-etiquette"
     }
   ],
-  "specializations" : [
-    {
-      "id": "tale-01",
-      "localizedKey": "tale-osef",
-      "archetypeId": "arch-warrior"
-    }
-  ],
   "talents" : [
     {
       "id": "tale-01",
       "localizedKey": "tale-osef",
-      "specializationId" : "spec-01" 
+      "requirement": [
+        {
+        "type": "attribute",
+        "typeId": "attr-01",
+        "value": 3,
+        "group": 1
+        },{
+        "type": "talent",
+        "typeId": "tale-01",
+        "value" : 1,
+        "group": 1
+        },{
+        "type": "focus",
+        "typeId": "focu-01"
+        }
+      ]
     },{
       "id": "tale-02",
-      "localizedKey": "arch-warrior"
+      "localizedKey": "tale-osef-2",
+      "archetypeId": "arch-warrior",
+      "requirement": [
+        {
+        "type": "attribute",
+        "typeId": "attr-01",
+        "value": 3,
+        "group": 1
+        },{
+        "type": "talent",
+        "typeId": "tale-01",
+        "value" : 1,
+        "group": 1
+        },{
+        "type": "focus",
+        "typeId": "focu-01"
+        }
+      ]
     }
   ],
   "archetypes": [
