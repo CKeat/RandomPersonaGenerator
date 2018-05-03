@@ -38,25 +38,32 @@
   "focuses": [
     {
       "id": "focu-0001",
-      "localizedKey": "focu-meneur-dhomme"
+      "localizedKey": "focu-meneur-dhomme",
+      "attributeId": "attr-01"
     },{
       "id": "focu-0002",
-      "localizedKey": "focu-connaissances-arcaniques"
+      "localizedKey": "focu-connaissances-arcaniques",
+      "attributeId": "attr-01"
     },{
       "id": "focu-0003",
-      "localizedKey": "focu-equitation"
+      "localizedKey": "focu-equitation",
+      "attributeId": "attr-01"
     },{
       "id": "focu-0004",
-      "localizedKey": "focu-heraldique"
+      "localizedKey": "focu-heraldique",
+      "attributeId": "attr-01"
     },{
       "id": "focu-0005",
-      "localizedKey": "focu-trait-mystique"
+      "localizedKey": "focu-trait-mystique",
+      "attributeId": "attr-01"
     },{
       "id": "focu-0006",
-      "localizedKey": "focu-connaissance-historique"
+      "localizedKey": "focu-connaissance-historique",
+      "attributeId": "attr-01"
     },{
       "id": "focu-0007",
-      "localizedKey": "focu-etiquette"
+      "localizedKey": "focu-etiquette",
+      "attributeId": "attr-01"
     }
   ],
   "talents" : [
@@ -104,13 +111,27 @@
   "archetypes": [
     {
       "id": "arch-01",
-      "localizedKey": "arch-warrior"
+      "localizedKey": "arch-warrior",
+      "primaryAttributes": ["attr-01", "attr-02", "attr-03"],
+      "secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+      "baseHealth": 30,
+      "healthVariationAttributeId": "attr-01"
     },{
       "id": "arch-02",
-      "localizedKey": "arch-sorcerer"
+      "localizedKey": "arch-sorcerer",
+      "primaryAttributes": ["attr-01", "attr-02", "attr-03"],
+      "secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+      "baseHealth": 20,
+      "healthVariationAttributeId": "attr-01",
+      "baseMane": 10,
+      "manaVariationAttributeId": "attr-05"
     },{
       "id": "arch-03",
-      "localizedKey": "arch-thief"
+      "localizedKey": "arch-thief",
+      "primaryAttributes": ["attr-01", "attr-02", "attr-03"],
+      "secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+      "baseHealth": 25,
+      "healthVariationAttributeId": "attr-01"
     }
   ],
   "origins": [
