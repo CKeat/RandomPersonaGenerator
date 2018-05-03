@@ -59,6 +59,23 @@
       "localizedKey": "focu-etiquette"
     }
   ],
+  "specializations" : [
+    {
+      "id": "tale-01",
+      "localizedKey": "tale-osef",
+      "archetypeId": "arch-warrior"
+    }
+  ],
+  "talents" : [
+    {
+      "id": "tale-01",
+      "localizedKey": "tale-osef",
+      "specializationId" : "spec-01" 
+    },{
+      "id": "tale-02",
+      "localizedKey": "arch-warrior"
+    }
+  ],
   "archetypes": [
     {
       "id": "arch-01",
