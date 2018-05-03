@@ -1,0 +1,163 @@
+{
+  "attributs" : [
+    {
+      "id": "attr-01",
+      "localizedKey": "attribut-communication"
+    },{
+      "id": "attr-02",
+      "localizedKey": "attribut-constitution"
+    },{
+      "id": "attr-03",
+      "localizedKey": "attribut-dexterity"
+    },{
+      "id": "attr-04",
+      "localizedKey": "attribut-strengh"
+    },{
+      "id": "attr-05",
+      "localizedKey": "attribut-magic"
+    },{
+      "id": "attr-06",
+      "localizedKey": "attribut-perception"
+    },{
+      "id": "attr-07",
+      "localizedKey": "attribut-cunning"
+    },{
+      "id": "attr-08",
+      "localizedKey": "attribut-will"
+    }
+  ],
+  "languages" : [
+    {
+      "id": "lang-001",
+      "localizedKey": "lang-common"
+    },{
+      "id": "lang-001",
+      "localizedKey": "lang-tevintide"
+    }
+  ],
+  "focuses": [
+    {
+      "id": "focu-0001",
+      "localizedKey": "focu-meneur-dhomme"
+    },{
+      "id": "focu-0002",
+      "localizedKey": "focu-connaissances-arcaniques"
+    },{
+      "id": "focu-0003",
+      "localizedKey": "focu-equitation"
+    },{
+      "id": "focu-0004",
+      "localizedKey": "focu-heraldique"
+    },{
+      "id": "focu-0005",
+      "localizedKey": "focu-trait-mystique"
+    },{
+      "id": "focu-0006",
+      "localizedKey": "focu-connaissance-historique"
+    },{
+      "id": "focu-0007",
+      "localizedKey": "focu-etiquette"
+    }
+  ],
+  "archetypes": [
+    {
+      "id": "arch-01",
+      "localizedKey": "arch-warrior"
+    },{
+      "id": "arch-02",
+      "localizedKey": "arch-sorcerer"
+    },{
+      "id": "arch-03",
+      "localizedKey": "arch-thief"
+    }
+  ],
+  "origins": [
+    {
+      "id": "orig-001",
+      "localizedKey": "origin-altus-tevintide",
+      "defaultBenefits" : [
+        {
+          "action": "add",
+          "type": "attribut",
+          "typeId": "attr-05",
+          "value": 1
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0001",
+          "group": 1
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0002",
+          "group": 1
+        },{
+          "action": "add",
+          "type": "language",
+          "typeId": "lang-001"
+        },{
+          "action": "add",
+          "type": "language",
+          "typeId": "lang-002"
+        },{
+          "action": "add",
+          "type": "archetype",
+          "typeId": "arch-02"
+        }
+      ],
+      "randomBenefits" : [
+        {
+          "action": "none"
+        },{
+          "action": "add",
+          "type": "attribut",
+          "typeId": "attr-07",
+          "value": 1
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0003"
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0003"
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0004"
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0005"
+        },{
+          "action": "add",
+          "type": "attribut",
+          "typeId": "attr-01",
+          "value": 1
+        },{
+          "action": "add",
+          "type": "attribut",
+          "typeId": "attr-01",
+          "value": 1
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0006"
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0007"
+        },{
+          "action": "add",
+          "type": "focus",
+          "typeId": "focu-0007"
+        },{
+          "action": "add",
+          "type": "attribut",
+          "typeId": "attr-08",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
