@@ -1,0 +1,403 @@
+{
+	"talents" : [
+		{
+			"id": "tale-001",
+			"localizedKey": "talent-beuverie",
+			"defaultName": "Beuverie",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type": "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				}
+			]
+		},{
+			"id": "tale-002",
+			"localizedKey": "talent-cavalerie",
+			"defaultName": "Cavalerie",
+			"requirement": [
+				{
+					"type": "focus",
+					"typeId": "focu-026"
+				}
+			]
+		},{
+			"id": "tale-003",
+			"localizedKey": "talent-cambriolage",
+			"defaultName": "Cambriolage",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				}
+			]
+		},{
+			"id": "tale-004",
+			"localizedKey": "talent-chirurgie",
+			"defaultName": "Chirurgie",
+			"requirement": [
+				{
+					"type": "focus",
+					"typeId": "focu-074"
+				}
+			]
+		},{
+			"id": "tale-005",
+			"localizedKey": "talent-combat-deux-armes",
+			"defaultName": "Combat à deux armes",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-006",
+			"localizedKey": "talent-combat-armes-mains",
+			"defaultName": "Combat à deux mains",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 3
+				}
+			]
+		},{
+			"id": "tale-007",
+			"localizedKey": "talent-combat-armes-hast",
+			"defaultName": "Combat à l'arme d'hast",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				}
+			]
+		},{
+			"id": "tale-008",
+			"localizedKey": "talent-combat-mains-nues",
+			"defaultName": "Combat à mains nues",
+			"requirement": null
+		},{
+			"id": "tale-009",
+			"localizedKey": "talent-combat-arme-bouclier",
+			"defaultName": "Combat à une arme et bouclier",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-010",
+			"localizedKey": "talent-combat-seule-arme",
+			"defaultName": "Combat à une seule arme",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				},{
+					"type": "attribute",
+					"typeId": "attr-006",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-011",
+			"localizedKey": "talent-combat-armes-jet",
+			"defaultName": "Combat aux arme de jet",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			]
+		},{
+			"id": "tale-012",
+			"localizedKey": "talent-combat-archerie",
+			"defaultName": "Combat d'archerie",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			]
+		},{
+			"id": "tale-013",
+			"localizedKey": "talent-combat-monte",
+			"defaultName": "Combat monté",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "focus",
+					"typeId": "focu-026"
+				}
+			]
+		},{
+			"id": "tale-014",
+			"localizedKey": "talent-commandement",
+			"defaultName": "Commandement",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-002",
+					"group": 1
+				},{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-015",
+			"localizedKey": "talent-contacts",
+			"defaultName": "Contacts",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				}
+			]
+		},{
+			"id": "tale-016",
+			"localizedKey": "talent-don-langues",
+			"defaultName": "Don pour les langues",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-007",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-017",
+			"localizedKey": "talent-dressage",
+			"defaultName": "Dressage",
+			"requirement": null
+		},{
+			"id": "tale-018",
+			"localizedKey": "talent-eloquence",
+			"defaultName": "Eloquence",
+			"requirement": [
+				{
+					"type": "focus",
+					"typeId": "focu-008"
+				}
+			]
+		},{
+			"id": "tale-019",
+			"localizedKey": "talent-enchantement",
+			"defaultName": "Enchantement",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-007",
+					"value": 3
+				},{
+					"type": "focus",
+					"typeId": "focu-067"
+				}
+			]
+		},{
+			"id": "tale-020",
+			"localizedKey": "talent-erudit",
+			"defaultName": "Erudit",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-007",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-021",
+			"localizedKey": "talent-fabrication-poison",
+			"defaultName": "Fabrication de poison",
+			"requirement": [
+				{
+					"type": "focus",
+					"typeId": "focu-059"
+				}
+			]
+		},{
+			"id": "tale-022",
+			"localizedKey": "talent-intrigue",
+			"defaultName": "Intrigue",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-023",
+			"localizedKey": "talent-magie-entropie",
+			"defaultName": "Magie d'antropie",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "focus",
+					"typeId": "focu-045"
+				}
+			]
+		},{
+			"id": "tale-024",
+			"localizedKey": "talent-magie-esprit",
+			"defaultName": "Magie d'esprit",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "focus",
+					"typeId": "focu-047"
+				}
+			]
+		},{
+			"id": "tale-025",
+			"localizedKey": "talent-magie-creation",
+			"defaultName": "Magie de création",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "focus",
+					"typeId": "focu-044"
+				}
+			]
+		},{
+			"id": "tale-026",
+			"localizedKey": "talent-magie-element",
+			"defaultName": "Magie des élément",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "focus",
+					"typeId": "focu-046"
+				}
+			]
+		},{
+			"id": "tale-027",
+			"localizedKey": "talent-musique",
+			"defaultName": "Musique",
+			"requirement": [
+				{
+					"type": "focus",
+					"typeId": "focu-007",
+					"group": 1
+				},{
+					"type": "focus",
+					"typeId": "focu-062",
+					"group": 1
+				}
+			]
+		},{
+			"id": "tale-028",
+			"localizedKey": "talent-observation",
+			"defaultName": "Observation",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-006",
+					"value": 3
+				}
+			]
+		},{
+			"id": "tale-029",
+			"localizedKey": "talent-piegeage",
+			"defaultName": "Observation",
+			"requirement": [
+				{
+					"type": "focus",
+					"typeId": "focu-019"
+				}
+			]
+		},{
+			"id": "tale-030",
+			"localizedKey": "talent-port-armure",
+			"defaultName": "Port d'armure",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				}
+			]
+		},{
+			"id": "tale-031",
+			"localizedKey": "talent-reconnaissance",
+			"defaultName": "Reconnaissance",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 2
+				}
+			]
+		},{
+			"id": "tale-032",
+			"localizedKey": "talent-reflexe-eclairs",
+			"defaultName": "Réflexes éclairs",
+			"requirement": [
+				{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 2
+				}
+			]
+		}
+	]
+}

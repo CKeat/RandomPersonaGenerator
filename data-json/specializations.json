@@ -1,0 +1,410 @@
+{
+	"specializations" : [
+		{
+			"id": "spec-001",
+			"localizedKey": "specialization-berseker",
+			"defaultName": "Berseker",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-008",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-002",
+			"localizedKey": "specialization-champion",
+			"defaultName": "Champion",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-003",
+			"localizedKey": "specialization-chevalier",
+			"defaultName": "Chevalier",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-004",
+			"localizedKey": "specialization-gardien",
+			"defaultName": "Gardien",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-002",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				},{
+					"type": "talent",
+					"typeId": "tale-009",
+					"value": 2
+				}
+			]
+		},{
+			"id": "spec-005",
+			"localizedKey": "specialization-psychomancien",
+			"defaultName": "Psychomancien",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-008",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-006",
+			"localizedKey": "specialization-saccageur",
+			"defaultName": "Saccageur",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-002",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-007",
+			"localizedKey": "specialization-templier",
+			"defaultName": "Templier",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-001"
+				},{
+					"type": "attribute",
+					"typeId": "attr-004",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-008",
+			"localizedKey": "specialization-archiviste",
+			"defaultName": "Archiviste",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-007",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-009",
+			"localizedKey": "specialization-guerisseur-vital",
+			"defaultName": "Guérisseur vital",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-010",
+			"localizedKey": "specialization-guerrier-mystique",
+			"defaultName": "Guerrier mystique",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-011",
+			"localizedKey": "specialization-mage-sang",
+			"defaultName": "Mage du sang",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-002",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-012",
+			"localizedKey": "specialization-mage-forces",
+			"defaultName": "Mage des forces",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-008",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-013",
+			"localizedKey": "specialization-metamorphe",
+			"defaultName": "Métamorphe",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-005",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-002",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-014",
+			"localizedKey": "specialization-necromancien",
+			"defaultName": "Nécromancien",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-002"
+				},{
+					"type": "attribute",
+					"typeId": "attr-008",
+					"value": 3
+				},{
+					"type": "talent",
+					"typeId": "tale-023",
+					"value": 1
+				}
+			]
+		},{
+			"id": "spec-015",
+			"localizedKey": "specialization-assassin",
+			"defaultName": "Assassin",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				},,{
+					"type": "attribute",
+					"typeId": "attr-007",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-016",
+			"localizedKey": "specialization-barde",
+			"defaultName": "Barde",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				},{
+					"type": "talent",
+					"typeId": "tale-027",
+					"value": 1
+				}
+			]
+		},{
+			"id": "spec-017",
+			"localizedKey": "specialization-duelliste",
+			"defaultName": "Duelliste",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-006",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				},{
+					"type": "talent",
+					"typeId": "tale-005",
+					"value": 1
+				}
+			]
+		},{
+			"id": "spec-018",
+			"localizedKey": "specialization-eclaireur-legion-morts",
+			"defaultName": "Eclaireur de la légion des morts",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-002",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-008",
+					"value": 3
+				}
+			]
+		},{
+			"id": "spec-019",
+			"localizedKey": "specialization-ombre",
+			"defaultName": "Ombre",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 4
+				},{
+					"type": "focus",
+					"typeId": "focu-024"
+				},{
+					"type": "focus",
+					"typeId": "focu-027"
+				}
+			]
+		},{
+			"id": "spec-020",
+			"localizedKey": "specialization-rodeur",
+			"defaultName": "Rôdeur",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-001",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-006",
+					"value": 3
+				},{
+					"type": "focus",
+					"typeId": "focu-010"
+				}
+			]
+		},{
+			"id": "spec-021",
+			"localizedKey": "specialization-tireur-elite",
+			"defaultName": "Tireur d'élite",
+			"requirement": [
+				{
+					"type": "archetype",
+					"typeId": "arch-003"
+				},{
+					"type": "attribute",
+					"typeId": "attr-003",
+					"value": 3
+				},{
+					"type": "attribute",
+					"typeId": "attr-006",
+					"value": 3
+				},{
+					"type": "talent",
+					"typeId": "tale-011",
+					"value": 2,
+					"group": 1
+				},{
+					"type": "talent",
+					"typeId": "tale-012",
+					"value": 2,
+					"group": 1
+				}
+			]
+		}
+	]
+}
