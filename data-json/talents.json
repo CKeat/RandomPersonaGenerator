@@ -162,7 +162,7 @@
 		},{
 			"id": "tale-011",
 			"localizedKey": "talent-combat-armes-jet",
-			"defaultName": "Combat aux arme de jet",
+			"defaultName": "Combat aux armes de jet",
 			"requirement": [
 				{
 					"type": "archetype",

@@ -1,0 +1,94 @@
+{
+	"archetypes": [
+		{
+			"id": "arch-001",
+			"localizedKey": "arch-warrior",
+			"primaryAttributes": ["attr-01", "attr-02", "attr-03"],
+			"secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+			"baseHealth": 30,
+			"healthVariationAttributeId": "attr-01",
+			"weapons": [
+				{
+					"type": "weapongroup",
+					"typeId": "weap-group-005"
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-001",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-002",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-003",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-006",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-007",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-008",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-009",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-010",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-011",
+					"group": 1
+				}
+			]
+		},{
+			"id": "arch-002",
+			"localizedKey": "arch-sorcerer",
+			"primaryAttributes": ["attr-01", "attr-02", "attr-03"],
+			"secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+			"baseHealth": 20,
+			"healthVariationAttributeId": "attr-01",
+			"baseMana": 10,
+			"manaVariationAttributeId": "attr-05",
+			"weapons": [
+				{
+					"type": "weapongroup",
+					"typeId": "weap-group-005"
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-006"
+				}
+			]
+		},{
+			"id": "arch-003",
+			"localizedKey": "arch-thief",
+			"primaryAttributes": ["attr-01", "attr-02", "attr-03"],
+			"secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+			"baseHealth": 25,
+			"healthVariationAttributeId": "attr-01",
+			"weapons": [
+				{
+					"type": "weapongroup",
+					"typeId": "weap-group-001"
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-005"
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-006"
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-008"
+				}
+			]
+		}
+	]
+}
