@@ -80,6 +80,22 @@
 					"type": "attribute",
 					"typeId": "attr-004",
 					"value": 3
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-002",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-007",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-010",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-011",
+					"group": 1
 				}
 			]
 		},{
@@ -90,13 +106,26 @@
 				{
 					"type": "archetype",
 					"typeId": "arch-001"
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-010",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-003",
+					"group": 1
 				}
 			]
 		},{
 			"id": "tale-008",
 			"localizedKey": "talent-combat-mains-nues",
 			"defaultName": "Combat à mains nues",
-			"requirement": null
+			"requirement": [
+				{
+					"type": "weapongroup",
+					"typeId": "weap-group-005"
+				}
+			]
 		},{
 			"id": "tale-009",
 			"localizedKey": "talent-combat-arme-bouclier",
@@ -143,6 +172,18 @@
 					"type": "archetype",
 					"typeId": "arch-003",
 					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-007",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-008",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-010",
+					"group": 1
 				}
 			]
 		},{
@@ -157,6 +198,10 @@
 				},{
 					"type": "archetype",
 					"typeId": "arch-003",
+					"group": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-001",
 					"group": 1
 				}
 			]

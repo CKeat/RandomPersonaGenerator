@@ -1,0 +1,225 @@
+{
+	"weaponGroups" : [
+		{
+			"id": "weap-group-001",
+			"localizedKey": "weapon-group-arcs",
+			"defaultName": "Arcs",
+			"attributeId": "attr-003",
+			"weapons": [
+				{
+					"id": "weap-001",
+					"localizedKey": "weapon-arc-court",
+					"defaultName": "Arc court"
+				},{
+					"id": "weap-002",
+					"localizedKey": "weapon-arc-long",
+					"defaultName": "Arc long"
+				},{
+					"id": "weap-003",
+					"localizedKey": "weapon-arbalète",
+					"defaultName": "Arbalète"
+				}
+			]
+		},{
+			"id": "weap-group-002",
+			"localizedKey": "weapon-group-armes-contondantes",
+			"defaultName": "Armes contondantes",
+			"attributeId": "attr-004",
+			"weapons": [
+				{
+					"id": "weap-004",
+					"localizedKey": "weapon-marteau",
+					"defaultName": "Marteau"
+				},{
+					"id": "weap-005",
+					"localizedKey": "weapon-masse-armes",
+					"defaultName": "Masse d'armes"
+				},{
+					"id": "weap-006",
+					"localizedKey": "weapon-masse-deux-mains",
+					"defaultName": "Masse à deux mains"
+				}
+			]
+		},{
+			"id": "weap-group-003",
+			"localizedKey": "weapon-group-armes-hast",
+			"defaultName": "Armes d'hast",
+			"attributeId": "attr-004",
+			"weapons": [
+				{
+					"id": "weap-007",
+					"localizedKey": "weapon-fourche-guerre",
+					"defaultName": "Fourche de guerre"
+				},{
+					"id": "weap-008",
+					"localizedKey": "weapon-fauchard",
+					"defaultName": "Fauchard"
+				},{
+					"id": "weap-009",
+					"localizedKey": "weapon-hallebarde",
+					"defaultName": "Hallebarde"
+				}
+			]
+		},{
+			"id": "weap-group-004",
+			"localizedKey": "weapon-group-armes-duel",
+			"defaultName": "Armes de duel",
+			"attributeId": "attr-003",
+			"weapons": [
+				{
+					"id": "weap-010",
+					"localizedKey": "weapon-targe-pointe",
+					"defaultName": "Targe à pointe"
+				},{
+					"id": "weap-011",
+					"localizedKey": "weapon-main-gauche",
+					"defaultName": "Main gauche"
+				},{
+					"id": "weap-012",
+					"localizedKey": "weapon-rapiere",
+					"defaultName": "Rapière"
+				}
+			]
+		},{
+			"id": "weap-group-005",
+			"localizedKey": "weapon-group-bagarre",
+			"defaultName": "Bagarre",
+			"attributeId": "attr-003",
+			"weapons": [
+				{
+					"id": "weap-013",
+					"localizedKey": "weapon-poing",
+					"defaultName": "Poing"
+				},{
+					"id": "weap-014",
+					"localizedKey": "weapon-gantelet",
+					"defaultName": "Gantelet"
+				},{
+					"id": "weap-015",
+					"localizedKey": "weapon-arme-improvisée",
+					"defaultName": "Arme improvisée"
+				}
+			]
+		},{
+			"id": "weap-group-006",
+			"localizedKey": "weapon-group-batons",
+			"defaultName": "Bâtons",
+			"attributeId": "attr-003",
+			"weapons": [
+				{
+					"id": "weap-016",
+					"localizedKey": "weapon-gourdin",
+					"defaultName": "Gourdin"
+				},{
+					"id": "weap-017",
+					"localizedKey": "weapon-grand-baton",
+					"defaultName": "Grand bâton"
+				},{
+					"id": "weap-018",
+					"localizedKey": "weapon-morgenstern",
+					"defaultName": "Morgenstern"
+				}
+			]
+		},{
+			"id": "weap-group-007",
+			"localizedKey": "weapon-group-haches",
+			"defaultName": "Haches",
+			"attributeId": "attr-004",
+			"weapons": [
+				{
+					"id": "weap-019",
+					"localizedKey": "weapon-hache-jet",
+					"defaultName": "Hache de jet"
+				},{
+					"id": "weap-020",
+					"localizedKey": "weapon-hache-bataille",
+					"defaultName": "Hache de bataille"
+				},{
+					"id": "weap-021",
+					"localizedKey": "weapon-hache-deux-mains",
+					"defaultName": "Hache à deux mains"
+				}
+			]
+		},{
+			"id": "weap-group-008",
+			"localizedKey": "weapon-group-lames-legeres",
+			"defaultName": "Lames légères",
+			"attributeId": "attr-003",
+			"weapons": [
+				{
+					"id": "weap-022",
+					"localizedKey": "weapon-couteau-lance",
+					"defaultName": "Couteau de lancer"
+				},{
+					"id": "weap-023",
+					"localizedKey": "weapon-dague",
+					"defaultName": "Dague"
+				},{
+					"id": "weap-024",
+					"localizedKey": "weapon-epee-courte",
+					"defaultName": "Epée courte"
+				}
+			]
+		},{
+			"id": "weap-group-009",
+			"localizedKey": "weapon-group-lames-lourdes",
+			"defaultName": "Lames lourdes",
+			"attributeId": "attr-004",
+			"weapons": [
+				{
+					"id": "weap-025",
+					"localizedKey": "weapon-epee-longue",
+					"defaultName": "Epée longue"
+				},{
+					"id": "weap-026",
+					"localizedKey": "weapon-epee-batarde",
+					"defaultName": "Epée bâtarde"
+				},{
+					"id": "weap-027",
+					"localizedKey": "weapon-epee-deux-mains",
+					"defaultName": "Epée à deux mains"
+				}
+			]
+		},{
+			"id": "weap-group-010",
+			"localizedKey": "weapon-group-lances",
+			"defaultName": "Lances",
+			"attributeId": "attr-004",
+			"weapons": [
+				{
+					"id": "weap-028",
+					"localizedKey": "weapon-javelot",
+					"defaultName": "Javelot"
+				},{
+					"id": "weap-029",
+					"localizedKey": "weapon-lance",
+					"defaultName": "Lance"
+				},{
+					"id": "weap-030",
+					"localizedKey": "weapon-pique",
+					"defaultName": "Pique"
+				}
+			]
+		},{
+			"id": "weap-group-011",
+			"localizedKey": "weapon-group-lances-arcon",
+			"defaultName": "Lances d'arçon",
+			"attributeId": "attr-004",
+			"weapons": [
+				{
+					"id": "weap-031",
+					"localizedKey": "weapon-lance-joute",
+					"defaultName": "Lance de joute"
+				},{
+					"id": "weap-032",
+					"localizedKey": "weapon-lance-arcon-legere",
+					"defaultName": "Lance d'arçon légère"
+				},{
+					"id": "weap-033",
+					"localizedKey": "weapon-lance-arcon-lourde",
+					"defaultName": "Lance d'arçon lourde"
+				}
+			]
+		}
+	]
+}
