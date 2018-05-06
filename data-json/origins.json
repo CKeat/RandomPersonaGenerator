@@ -1,0 +1,1330 @@
+{
+	"origins": [
+		{
+			"id": "orig-001",
+			"localizedKey": "origin-altus-tevintide",
+			"defaultName": "Altus Tévintide",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-006",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-063",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-002"
+				},{
+					"type": "archetype",
+					"typeId": "arch-002"
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "focus",
+					"typeId": "focu-069"
+				},{
+					"type" : "focus",
+					"typeId": "focu-049"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-060"
+				},{
+					"type" : "focus",
+					"typeId": "focu-002"
+				},{
+					"type" : "focus",
+					"typeId": "focu-002"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-002",
+			"localizedKey": "origin-alvar",
+			"defaultName": "Alvar",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-010",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-035",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-004"
+				},{
+					"type" : "focus",
+					"typeId": "focu-004"
+				},{
+					"type" : "focus",
+					"typeId": "focu-016"
+				},{
+					"type" : "focus",
+					"typeId": "focu-038"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-043"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-003",
+			"localizedKey": "origin-apostat-elf",
+			"defaultName": "Apostat Elf",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-077",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-057",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-002"
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "language",
+					"typeId": "lang-007"
+				},{
+					"type" : "language",
+					"typeId": "lang-007"
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-024"
+				},{
+					"type" : "focus",
+					"typeId": "focu-024"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-004",
+			"localizedKey": "origin-apostat-humain",
+			"defaultName": "Apostat Humain",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-077",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-057",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-002"
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-074"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-005",
+			"localizedKey": "origin-artisant-fereldien",
+			"defaultName": "Artisant Féreldien",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-019",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-064",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-005"
+				},{
+					"type" : "focus",
+					"typeId": "focu-005"
+				},{
+					"type" : "focus",
+					"typeId": "focu-068"
+				},{
+					"type" : "focus",
+					"typeId": "focu-076"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-057"
+				},{
+					"type" : "focus",
+					"typeId": "focu-036"
+				},{
+					"type" : "focus",
+					"typeId": "focu-036"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-006",
+			"localizedKey": "origin-aventurier-nevarrien",
+			"defaultName": "Aventurier Névarrien",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-043",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-075",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-003"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-006"
+				},{
+					"type" : "focus",
+					"typeId": "focu-006"
+				},{
+					"type" : "focus",
+					"typeId": "focu-055"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-042"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-007",
+			"localizedKey": "origin-converti-seheron",
+			"defaultName": "Converti de Séhéron",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-077",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-072",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-002"
+				},{
+					"type": "language",
+					"typeId": "lang-004"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-060"
+				},{
+					"type" : "focus",
+					"typeId": "focu-060"
+				},{
+					"type" : "focus",
+					"typeId": "focu-043"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-008"
+				},{
+					"type" : "focus",
+					"typeId": "focu-051"
+				},{
+					"type" : "focus",
+					"typeId": "focu-051"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-008",
+			"localizedKey": "origin-ecumeur",
+			"defaultName": "Ecumeur",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-017",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-056",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-006",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-003",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-005",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-068"
+				},{
+					"type" : "focus",
+					"typeId": "focu-068"
+				},{
+					"type" : "focus",
+					"typeId": "focu-038"
+				},{
+					"type" : "focus",
+					"typeId": "focu-016"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-071"
+				},{
+					"type" : "focus",
+					"typeId": "focu-012"
+				},{
+					"type" : "focus",
+					"typeId": "focu-012"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-009",
+			"localizedKey": "origin-elfe-citadin",
+			"defaultName": "Elfe Citadin",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-024",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-056",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-052"
+				},{
+					"type" : "focus",
+					"typeId": "focu-052"
+				},{
+					"type" : "focus",
+					"typeId": "focu-068"
+				},{
+					"type" : "focus",
+					"typeId": "focu-029"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "focus",
+					"typeId": "focu-018"
+				},{
+					"type" : "focus",
+					"typeId": "focu-018"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-010",
+			"localizedKey": "origin-elfe-dalatien",
+			"defaultName": "Elfe Dalatien",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-018",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-075",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-007"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-056"
+				},{
+					"type" : "focus",
+					"typeId": "focu-056"
+				},{
+					"type" : "focus",
+					"typeId": "focu-054"
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-011",
+			"localizedKey": "origin-esclave-elfe-fuite",
+			"defaultName": "Esclave elfe en fuite",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-054",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-043",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-002"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-002",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 5
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 5
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "focus",
+					"typeId": "focu-020"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-034"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-012",
+			"localizedKey": "origin-etudiant-orlesien",
+			"defaultName": "Etudiant Orlésien",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-008",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-073",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-003"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-022"
+				},{
+					"type" : "focus",
+					"typeId": "focu-002"
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "focus",
+					"typeId": "focu-060"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-013",
+			"localizedKey": "origin-exile-orlesien",
+			"defaultName": "Exilé Orlésien",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-008",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-058",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-003"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-006",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-051"
+				},{
+					"type" : "focus",
+					"typeId": "focu-051"
+				},{
+					"type" : "focus",
+					"typeId": "focu-069"
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "weapongroup",
+					"typeId": "weap-group-008"
+				},{
+					"type" : "weapongroup",
+					"typeId": "weap-group-008"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-014",
+			"localizedKey": "origin-habitant-marches-libres",
+			"defaultName": "Habitant des marches libres",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-005",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-068",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-016"
+				},{
+					"type" : "focus",
+					"typeId": "focu-016"
+				},{
+					"type" : "focus",
+					"typeId": "focu-004"
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "focus",
+					"typeId": "focu-027"
+				},{
+					"type" : "focus",
+					"typeId": "focu-027"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-015",
+			"localizedKey": "origin-homme-libre-fereldien",
+			"defaultName": "Homme libre Féreldien",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-014",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-075",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "archetype",
+					"typeId": "arch-001",
+					"group": 1
+				},{
+					"type": "archetype",
+					"typeId": "arch-003",
+					"group": 1
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-010"
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-034"
+				},{
+					"type" : "focus",
+					"typeId": "focu-016"
+				},{
+					"type" : "focus",
+					"typeId": "focu-016"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-004",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-016",
+			"localizedKey": "origin-laetan-tevintide",
+			"defaultName": "Laetan Tévintide",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-011",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-063",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-002"
+				},{
+					"type": "archetype",
+					"typeId": "arch-002"
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-068"
+				},{
+					"type" : "focus",
+					"typeId": "focu-068"
+				},{
+					"type" : "focus",
+					"typeId": "focu-026"
+				},{
+					"type" : "focus",
+					"typeId": "focu-011"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-008"
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				}
+			]
+		},{
+			"id": "orig-017",
+			"localizedKey": "origin-mage-cercle-elfe",
+			"defaultName": "Mage du Cercle Elfe",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-063",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-060",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-008"
+				},{
+					"type": "archetype",
+					"typeId": "arch-002"
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-001",
+					"value": 1
+				},{
+					"type" : "language",
+					"typeId": "lang-007"
+				},{
+					"type" : "language",
+					"typeId": "lang-007"
+				},{
+					"type" : "focus",
+					"typeId": "focu-074"
+				},{
+					"type" : "focus",
+					"typeId": "focu-056"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-003",
+					"value": 1
+				},{
+					"type": "weapongroup",
+					"typeId": "weap-group-001"
+				}
+			]
+		},{
+			"id": "orig-018",
+			"localizedKey": "origin-mage-cercle-humain",
+			"defaultName": "Mage du Cercle Humain",
+			"defaultBenefits": [
+				{
+					"type" : "attribute",
+					"typeId": "attr-005",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-063",
+					"group": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-060",
+					"group": 1
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-001"
+				},{
+					"type": "language",
+					"typeId": "lang-008"
+				},{
+					"type": "archetype",
+					"typeId": "arch-002"
+				}
+			],
+			"randomBenefits": [
+				{
+					"type": null
+				},{
+					"type" : "attribute",
+					"typeId": "attr-008",
+					"value": 1
+				},{
+					"type" : "language",
+					"typeId": "lang-077"
+				},{
+					"type" : "language",
+					"typeId": "lang-077"
+				},{
+					"type" : "focus",
+					"typeId": "focu-002"
+				},{
+					"type" : "focus",
+					"typeId": "focu-069"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "attribute",
+					"typeId": "attr-007",
+					"value": 1
+				},{
+					"type" : "focus",
+					"typeId": "focu-058"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "focus",
+					"typeId": "focu-014"
+				},{
+					"type" : "attribute",
+					"typeId": "attr-002",
+					"value": 1
+				}
+			]
+		}
+	]
+}
