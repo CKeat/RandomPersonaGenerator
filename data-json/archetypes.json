@@ -3,10 +3,10 @@
 		{
 			"id": "arch-001",
 			"localizedKey": "arch-warrior",
-			"primaryAttributes": ["attr-01", "attr-02", "attr-03"],
-			"secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+			"primaryAttributes": ["attr-002", "attr-003", "attr-004"],
+			"secondaryAttributes": ["attr-001", "attr-005", "attr-006", "attr-007", "attr-008"],
 			"baseHealth": 30,
-			"healthVariationAttributeId": "attr-01",
+			"healthVariationAttributeId": "attr-001",
 			"weapons": [
 				{
 					"type": "weapongroup",
@@ -52,12 +52,12 @@
 		},{
 			"id": "arch-002",
 			"localizedKey": "arch-sorcerer",
-			"primaryAttributes": ["attr-01", "attr-02", "attr-03"],
-			"secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+			"primaryAttributes": ["attr-005", "attr-007", "attr-008"],
+			"secondaryAttributes": ["attr-004", "attr-001", "attr-006", "attr-002", "attr-003"],
 			"baseHealth": 20,
-			"healthVariationAttributeId": "attr-01",
+			"healthVariationAttributeId": "attr-001",
 			"baseMana": 10,
-			"manaVariationAttributeId": "attr-05",
+			"manaVariationAttributeId": "attr-005",
 			"weapons": [
 				{
 					"type": "weapongroup",
@@ -70,10 +70,10 @@
 		},{
 			"id": "arch-003",
 			"localizedKey": "arch-thief",
-			"primaryAttributes": ["attr-01", "attr-02", "attr-03"],
-			"secondaryAttributes": ["attr-04", "attr-05", "attr-06", "attr-07", "attr-08"],
+			"primaryAttributes": ["attr-001", "attr-003", "attr-006"],
+			"secondaryAttributes": ["attr-004", "attr-005", "attr-002", "attr-007", "attr-008"],
 			"baseHealth": 25,
-			"healthVariationAttributeId": "attr-01",
+			"healthVariationAttributeId": "attr-001",
 			"weapons": [
 				{
 					"type": "weapongroup",
